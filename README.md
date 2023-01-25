@@ -53,9 +53,9 @@ THEN I should have proper build scripts for a webpack application
 ```
 <a name="usage"/>
 ## Usage
-``md
+```
     TO start off make sure you clone the code. npm install all your packages then hit npm start to start the application.
-``
+```
 
 <a name="credits"/>
 ## Credits
@@ -69,4 +69,3 @@ THEN I should have proper build scripts for a webpack application
     I had great help from the module 18 mini project which thoroughly explain the structure and get methods I needed to CREATE the framework for this project.
 ``
 
-I want to demonstrate a text editor that can write code snippets and save texts on the go and I can also use 
