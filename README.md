@@ -53,18 +53,21 @@ THEN I should have proper build scripts for a webpack application
 ```
 <a name="usage"/>
 ## Usage
-              ```
+
+  ```
     TO start off make sure you clone the code. npm install all your packages then hit npm start to start the application.
  ```
 
 <a name="credits"/>
 ## Credits
+
 ``md
     I want to thank my tutor chris for helping me with this project.
 ``
 
 <a name="references"/>
 ## References
+
 ``md
     I had great help from the module 18 mini project which thoroughly explain the structure and get methods I needed to CREATE the framework for this project.
 ``
