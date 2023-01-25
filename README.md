@@ -53,9 +53,9 @@ THEN I should have proper build scripts for a webpack application
 ```
 <a name="usage"/>
 ## Usage
-```
+                ```
     TO start off make sure you clone the code. npm install all your packages then hit npm start to start the application.
-```
+                ```
 
 <a name="credits"/>
 ## Credits
