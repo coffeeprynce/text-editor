@@ -68,3 +68,7 @@ THEN I should have proper build scripts for a webpack application
 ``md
     I had great help from the module 18 mini project which thoroughly explain the structure and get methods I needed to CREATE the framework for this project.
 ``
+
+AS A developer
+I WANT to create notes or code snippets with or without an internet connection
+SO THAT I can reliably retrieve them for later use
